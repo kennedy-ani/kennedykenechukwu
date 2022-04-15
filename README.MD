@@ -1,6 +1,6 @@
-### Hi there 👋🏿
-<h1 align="center">Hi 👋, I'm Kennedy</h1>
-<h3 align="center">A software engineer who is focused on JavaScript 💛</h3>
+
+<h1 align="center">Hi there 👋🏿</h1>
+<h3 align="center">I am a software engineer who is focused on JavaScript 💛</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
